@@ -1,5 +1,6 @@
 Git init 
 MiszterPumukli
+Git init - Hunor85
 
 Added Branch 1
 
